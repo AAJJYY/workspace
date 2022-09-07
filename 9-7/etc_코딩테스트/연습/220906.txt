@@ -1,0 +1,13 @@
+Lv.1 성격 유형 검사하기
+https://school.programmers.co.kr/learn/courses/30/lessons/118666
+
+Lv.1 평균 구하기
+https://school.programmers.co.kr/learn/courses/30/lessons/12944
+프로그래머스 코딩테스트가 아직 어려운 분들을 위한 정말 쉬운 문제 (감 잡기)
+- 빌트인 함수를 사용하셔서도 해결해보시고
+- sum과 len를 사용하지 않고도 해결해보세요 !
+
+Lv.2 두 큐 합 같게 만들기
+https://school.programmers.co.kr/learn/courses/30/lessons/118667
+위 문제가 너무 쉬우신 분들은 추가로 도전해보세요 !
+collections의 deque 자료구조를 활용해보세요
